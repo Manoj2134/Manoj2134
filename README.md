@@ -30,8 +30,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/Manoj2134/Manoj2134/output/snake.svg)
 
 ---
 
