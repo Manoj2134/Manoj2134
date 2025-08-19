@@ -1,16 +1,35 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&lines=Hi%2C+I'm+Manu!;BE+(CSE)+Student;Exploring+AI+%26+Web+Dev;Open+Source+Contributor;Future+Full+Stack+Developer)](https://git.io/typing-svg)
 
-<!--
-**Manoj2134/Manoj2134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Manu  
 
-Here are some ideas to get you started:
+💻 BE(CSE) | 🚀 Exploring AI, Web Dev & Open Source  
+🌱 Currently learning: React & Machine Learning  
+🎯 Goal: Contribute to open source projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ My Skills
+- Python 🐍  
+- Java Full Stack  
+- Web Technologies  
+- C++ ⚡  
+- JavaScript 🌐  
+- React ⚛️  
+- Spring 🌱  
+- Hibernate 🛠️  
+- JDBC 🔗  
+- Testing ✅  
+
+---
+
+## 📊 GitHub Stats
+![Manu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manoj2134&show_icons=true&theme=radical)
+
+---
+
+## 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/Manoj2134/Manoj2134/output/snake.svg)
+
+---
+
+✨ Thanks for visiting my profile! ✨
