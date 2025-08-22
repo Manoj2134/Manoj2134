@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&lines=Hi%2C+I'm+Manoj+Kumar+C!;BE+(CSE)+Student;Exploring+AI+%26+Web+Dev;Open+Source+Contributor;Future+Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&lines=Hi%2C+I'm+Manoj+Kumar+C!;BE+(CSE)+Student;Exploring+AI+%26+Web+Dev;Open+Source+Contributor;+Full+Stack+Developer)](https://git.io/typing-svg)
 
 #  Hi, I'm Manoj Kumar C  
 
